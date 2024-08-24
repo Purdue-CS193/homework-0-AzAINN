@@ -1,3 +1,10 @@
+# Azain Khalid's First CS193 Homework
+
+**My Favorite Things about CS193**
+- The classroom is really far away from my dorm so i'm able to get my steps in
+- I liked it when it was my only class that I had to attend on this tuesday
+- I like it when it snows in the room
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Home Work 0
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -25,16 +32,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-## Example Edits
-### For Loop
-`for i in list
-  print i`
-  
- ```markdown
-This is another code block
-CS 193 is a nice train.
-```
-
+### Example information
+**Code**
+`For passenger in cs193`
+  `print("smiles" x 3")`
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
