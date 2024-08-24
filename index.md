@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-##Example Edits
-###For Loop
+## Example Edits
+### For Loop
 `for i in list
   print i`
   
